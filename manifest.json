@@ -2,12 +2,13 @@
     "manifest_version": 2,
     "name": "newerAcis",
     "version": "1.0",
+    "author": "Th1nkK1D",
 
     "description": "NewAcis? No PopUp needed anymore",
 
-    // "icons": {
-    // "48": "icons/border-48.png"
-    // },
+    "icons": {
+    "48": "48x48icon.png"
+    },
 
     "content_scripts": [
     {

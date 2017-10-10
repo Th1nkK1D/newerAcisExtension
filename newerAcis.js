@@ -1,1 +1,1 @@
-window.name = 'mainPopupWindow'
+window.name = 'mainPopupWindow' // It's a magic
