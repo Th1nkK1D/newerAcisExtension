@@ -17,7 +17,7 @@ Google Chrome and Firefox Extension which allow you to enter [newAcis](https://s
 1. Browse to `about:debugging`.
 2. *"Use Temporary Add-on"* and choose *manifest.json* in *newerAcisExtension* directory.
 
-**NOTE**: Due to security reason, Firefox will remove the temporary addon every time it's restart. Google Chrom is recommended.
+**NOTE**: Due to security reason, Firefox will remove the temporary addon every time it restart. Google Chrome is recommended.
 
 ## Special Thanks
 @antronic for a clue of magic.
